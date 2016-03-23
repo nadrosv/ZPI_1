@@ -1,5 +1,5 @@
 #include <iostream.h>
-int main(){
+int main(args){
     cout << "Hello World!";
     return 0;
-}//komentarz
+}//komentarz 2
